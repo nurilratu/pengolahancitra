@@ -1,0 +1,8 @@
+c:\users\nuril\documents\visual studio 2010\Projects\TugasIndividu\TugasIndividu\bin\Debug\TugasIndividu.exe
+c:\users\nuril\documents\visual studio 2010\Projects\TugasIndividu\TugasIndividu\bin\Debug\TugasIndividu.pdb
+c:\users\nuril\documents\visual studio 2010\Projects\TugasIndividu\TugasIndividu\obj\x86\Debug\TugasIndividu.Form1.resources
+c:\users\nuril\documents\visual studio 2010\Projects\TugasIndividu\TugasIndividu\obj\x86\Debug\TugasIndividu.Properties.Resources.resources
+c:\users\nuril\documents\visual studio 2010\Projects\TugasIndividu\TugasIndividu\obj\x86\Debug\TugasIndividu.csproj.GenerateResource.Cache
+c:\users\nuril\documents\visual studio 2010\Projects\TugasIndividu\TugasIndividu\obj\x86\Debug\TugasIndividu.exe
+c:\users\nuril\documents\visual studio 2010\Projects\TugasIndividu\TugasIndividu\obj\x86\Debug\TugasIndividu.pdb
+C:\Users\Nuril\documents\visual studio 2010\Projects\TugasIndividu\TugasIndividu\obj\x86\Debug\TugasIndividu.csprojResolveAssemblyReference.cache
